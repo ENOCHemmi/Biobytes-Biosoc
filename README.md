@@ -23,4 +23,4 @@
 ->EDA <br>
 ->Descriptor preparation <br>
 ## Week 7: Drug Discovery Concluded
-->Evaluated various ML modesl  <br>
+->Evaluated various ML models  <br>
